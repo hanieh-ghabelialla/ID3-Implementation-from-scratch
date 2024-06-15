@@ -46,10 +46,12 @@ ID3 Algorithm Performance Summary:
 
 Dataset	ID3 Accuracy
 
-Breast Cancer	0.91
-Car Evaluation	0.63
-Ecoli	0.52
-Letter	0.42
+Breast Cancer	0.91 *
+Car Evaluation	0.63 
+*
+Ecoli	0.52 *
+Letter	0.42 *
+
 
 7. Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
