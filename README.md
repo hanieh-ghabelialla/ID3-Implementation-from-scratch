@@ -49,6 +49,6 @@ Letter	0.42
 7. Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
 
-8. License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
